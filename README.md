@@ -52,5 +52,7 @@ If you'd like to run and host this repo locally, for whatever reason:
 ## Licenses
 
 Template: MIT https://github.com/the3ash
+
 Personal additions to the code: MIT [https://github.com/ezappala/](./LICENCE)
+
 Content of this website: CC-BY
